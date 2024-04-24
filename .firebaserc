@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cicd1-9f744",
+    "learning": "cicd1-9f744"
+  },
+  "targets": {},
+  "etags": {}
+}
